@@ -40,7 +40,7 @@ export default function SolutionPage() {
             <Image
               width={1000}
               height={1000}
-              src="https://placehold.co/400x600.png"
+              src="https://images.pexels.com/photos/2049001/pexels-photo-2049001.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
               alt="Solution"
               className="mx-auto aspect-video overflow-hidden rounded-xl object-cover sm:w-full lg:order-last lg:aspect-square"
             />
@@ -71,7 +71,7 @@ export default function SolutionPage() {
               <Image
                 width={1000}
                 height={1000}
-                src="https://placehold.co/400x600.png"
+                src="https://images.pexels.com/photos/1084542/pexels-photo-1084542.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
                 alt="Farmer Empowerment"
                 className="mx-auto aspect-video overflow-hidden rounded-xl object-cover object-center sm:w-full lg:order-last"
               />
